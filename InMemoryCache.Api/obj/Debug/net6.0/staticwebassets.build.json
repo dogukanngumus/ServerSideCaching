@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "qPMrqhzjkHyDWP+OZQbqK/9ZeKNny16cNlzL4xOVXn8=",
+  "Source": "InMemoryCache.Api",
+  "BasePath": "_content/InMemoryCache.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
